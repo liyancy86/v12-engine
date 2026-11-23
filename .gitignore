@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 调试/截图临时产物（项目规矩：每轮改完必须删干净）
+_*.html
+_*.js
+_*.png
+_cdp/
+node_modules/
